@@ -1,0 +1,22 @@
+{
+    "name": "oh-sky/cakephp3-base64-email",
+    "description": "CakePHP3 extension to encode the message body with Base64.",
+    "type": "library",
+    "require": {
+        "cakephp/cakephp": "3.1.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "oh-sky",
+            "email": "yoshihiro.ohsuka@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "OhSky\\": "src"
+        }
+    },
+    "include-path": ["src/"]
+}
