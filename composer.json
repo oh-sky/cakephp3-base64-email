@@ -12,6 +12,7 @@
             "email": "yoshihiro.ohsuka@gmail.com"
         }
     ],
+    "keywords": ["CakePHP", "Email", "Base64"],
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
