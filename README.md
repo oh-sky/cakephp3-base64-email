@@ -1,6 +1,8 @@
 # cakephp3-base64-email
 CakePHP3 extension to encode the message body with Base64.
 
+[![Build Status](https://travis-ci.org/oh-sky/cakephp3-base64-email.svg?branch=master)](https://travis-ci.org/oh-sky/cakephp3-base64-email)
+
 # Requirements
 
 - CakePHP 3.1.x
