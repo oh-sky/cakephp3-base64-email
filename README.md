@@ -33,3 +33,12 @@ class MailShell extends Shell
     }
 }
 ```
+
+# Test
+
+```
+git clone git@github.com:oh-sky/cakephp3-base64-email.git cakephp3-base64-email
+cd cakephp3-base64-email
+composer install --dev
+./vendor/bin/phpunit --bootstrap vendor/autoload.php tests
+```
